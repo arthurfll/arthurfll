@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+nav {
+    background-color: blueviolet;
+}
+
+#shopify {
+    background-color: aqua;
+}
+
+#landing {
+    background-color: brown;
+}
+
+#django {
+    background-color: aqua;
+}
