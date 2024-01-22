@@ -1,20 +1,76 @@
 body {
-    background-color: black;
-    color: white;
+    font-family: sans-serif;
+    background-color: rgb(8, 16, 24);
+    color: #ffffff;
+    margin: 0%
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
 }
 
 nav {
-    background-color: blueviolet;
+    background-color: rgb(255, 255, 255);
+    color: #000000;
+    display: flex;
+    height: 70px;
+    align-items: center;
+    justify-content: space-between;
 }
 
-#shopify {
-    background-color: aqua;
+nav a {
+    color: #000000;
+    text-decoration: none;
 }
 
-#landing {
-    background-color: brown;
+.subnav {
+    display: flex;
+    height: 25px;
+    background-color: #000000;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#main {
+    height: 700px;
+    background: linear-gradient(to left, rgb(12, 25, 59),rgb(23, 46, 110));
 }
 
 #django {
-    background-color: aqua;
+    height: 700px;
+    background: linear-gradient(to left, rgb(12, 25, 59),rgb(23, 46, 110));
 }
+
+#landing {
+    height: 700px;
+    background: linear-gradient(to left, rgb(37, 3, 1),rgb(56, 5, 2));
+}
+
+#shopify {
+    height: 700px;
+    background: linear-gradient(to left, rgb(12, 25, 59),rgb(23, 46, 110));
+}
+
+#actix {
+    height: 700px;
+    background: linear-gradient(to left, rgb(37, 3, 1),rgb(56, 5, 2));
+}
+
+#frontend {
+    height: 700px;
+    background: linear-gradient(to left, rgb(12, 25, 59),rgb(23, 46, 110));
+}
+
+#backend {
+    height: 700px;
+    background: linear-gradient(to left, rgb(37, 3, 1),rgb(56, 5, 2));
+}
+
+#database {
+    height: 700px;
+    background-color: rgb(3, 37, 26);
+    background: linear-gradient(to left, rgb(12, 25, 59),rgb(23, 46, 110));
+}
+
+#rodape {}
