@@ -1,0 +1,50 @@
+
+
+body {
+    background-color: #14252c;
+}
+
+nav {color: #273c41;}
+
+.geral {color: #45575b;}
+
+.barra-tecnologias {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.barra-projetos {
+    background-color: white;
+    border: #a3a39b solid 3px;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 40px;
+}
+
+.painel {color: #a3a39b;}
+
+.django {color: #82401d;}
+
+.mern {color: #e6cab3;}
+
+.actix {color: #14252c;}
+
+.solana {}
+
+.landing-page {}
+
+.ecommerce {}
+
+.aws {}
+
+.database {}
+
+footer {}
+
