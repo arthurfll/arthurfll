@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF9900&height=180&section=header&text=Arthur%20Fontenelle&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer&descAlignY=58&descSize=18&descColor=ffffffcc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF9900&height=180&section=header&text=Arthur%20Fontenelle&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cloud%20Engineer&descAlignY=58&descSize=18&descColor=ffffffcc" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=FF9900&center=true&vCenter=true&width=480&lines=AWS+%7C+Kubernetes+%7C+.NET;Infraestrutura+cloud-native+em+produ%C3%A7%C3%A3o;Containers%2C+pipelines+e+resili%C3%AAncia)](https://git.io/typing-svg)
 
